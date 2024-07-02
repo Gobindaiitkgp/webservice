@@ -16,7 +16,6 @@ ordereddict==1.1
 pandas==1.5.1
 protobuf==3.20.3
 pyOpenSSL==24.1.0
-pywin32==306
 scikit_learn==1.1.2
 streamlit==1.17.0
 streamlit_option_menu==0.3.13
