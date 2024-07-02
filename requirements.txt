@@ -20,8 +20,4 @@ scikit_learn==1.1.2
 streamlit==1.17.0
 streamlit_option_menu==0.3.13
 tensorflow==2.12.0
-tensorflow_intel==2.12.0
-thread==2.0.3
-wincertstore==0.2.1
-xmlrpclib==1.0.1
-zipp==3.12.0
+
